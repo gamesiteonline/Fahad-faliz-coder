@@ -1,0 +1,2 @@
+class AgentSwarm:
+    pass
