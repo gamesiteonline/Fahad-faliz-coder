@@ -1,0 +1,15 @@
+[project]
+name = "faliz-coder"
+version = "0.1.0"
+description = "Autonomous Full-Stack Project Generator"
+requires-python = ">=3.10"
+dependencies = [
+    "litellm>=1.40",
+    "pydantic>=2.0",
+    "typer>=0.9",
+    "networkx>=3.0",
+    "python-dotenv>=1.0",
+]
+
+[project.scripts]
+faliz = "faliz_coder.cli:app"

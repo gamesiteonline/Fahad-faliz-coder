@@ -1,2 +1,5 @@
-# Fahad-faliz-coder
-Faliz Coder - Autonomous Full-Stack Project Generator
+# Fahad Faliz Coder
+
+Autonomous self-healing full-stack code generator.
+
+See original implementation for full features.
